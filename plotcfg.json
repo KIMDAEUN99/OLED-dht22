@@ -1,0 +1,8 @@
+{
+    "title": "Thermometer",
+    "width": 100,
+    "label": [
+        "Temperature",
+        "Humidity"
+    ]
+}
